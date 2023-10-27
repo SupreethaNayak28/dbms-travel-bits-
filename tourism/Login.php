@@ -10,7 +10,7 @@ function generateCaptcha() {
 if (isset($_POST['submit'])) {
     // Validate the captcha
     if (isset($_POST['userCaptcha']) && isset($_SESSION['captcha'])) {
-        $enteredCaptcha = strtoupper($_POST['userCaptcha']); // Convert entered captcha to uppercase for case-insensitivity
+        $enteredCaptcha = $_POST['userCaptcha']; 
         $actualCaptcha = $_SESSION['captcha'];
 
     $email=mysqli_real_escape_string($conn,$_POST['email']);
