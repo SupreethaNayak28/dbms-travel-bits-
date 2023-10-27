@@ -26,10 +26,12 @@
 <a class="navbar-brand" href="index.php">Travel Bits</a>
 <ul class="menubar">
     <li><a href="index.php">Home</a></li>
-    <li><a href="about.php">About</a></li>
-    <li><a href="services.php">Services</a></li>
-    <li><a href="staff.php">Guides</a></li>
-    <li><a href="contact.php">Contact Us</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#staff">Guides</a></li>
+    <li><a href="#contact">Contact Us</a></li>
+     <li><a href="register.php">Register</a></li>
+        <li><a href="Login.php">Login</a></li>
 </ul>
 </div>
 
