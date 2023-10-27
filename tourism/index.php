@@ -17,4 +17,16 @@
     </div>
 </div>
 </div>
+<section class="about" id="about">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p>hi</p>
+</section>
+<section class="services" id="services">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p>hi</p>
+</section>
+<section class="staff" id="staff">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p>hi</p>
+</section>
+<section class="contact" id="contact">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p>hi</p>
+</section>
 <?php include('inc/footer.php');?>
